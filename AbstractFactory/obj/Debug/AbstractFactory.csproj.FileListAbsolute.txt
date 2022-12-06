@@ -1,0 +1,8 @@
+C:\Yura\KNU\oopOld\Patterns-master\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Yura\KNU\oopOld\Patterns-master\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Yura\KNU\oopOld\Patterns-master\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Yura\KNU\oopOld\Patterns-master\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+C:\Yura\KNU\oopOld\Patterns-master\AbstractFactory\obj\Debug\AbstractFactory.csproj.SuggestedBindingRedirects.cache
+C:\Yura\KNU\oopOld\Patterns-master\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Yura\KNU\oopOld\Patterns-master\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Yura\KNU\oopOld\Patterns-master\AbstractFactory\obj\Debug\AbstractFactory.pdb

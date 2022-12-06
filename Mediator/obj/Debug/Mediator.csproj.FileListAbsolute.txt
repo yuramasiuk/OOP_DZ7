@@ -1,0 +1,8 @@
+C:\Yura\KNU\oopOld\Patterns-master\Mediator\bin\Debug\Mediator.exe.config
+C:\Yura\KNU\oopOld\Patterns-master\Mediator\bin\Debug\Mediator.exe
+C:\Yura\KNU\oopOld\Patterns-master\Mediator\bin\Debug\Mediator.pdb
+C:\Yura\KNU\oopOld\Patterns-master\Mediator\obj\Debug\Mediator.csproj.AssemblyReference.cache
+C:\Yura\KNU\oopOld\Patterns-master\Mediator\obj\Debug\Mediator.csproj.SuggestedBindingRedirects.cache
+C:\Yura\KNU\oopOld\Patterns-master\Mediator\obj\Debug\Mediator.csproj.CoreCompileInputs.cache
+C:\Yura\KNU\oopOld\Patterns-master\Mediator\obj\Debug\Mediator.exe
+C:\Yura\KNU\oopOld\Patterns-master\Mediator\obj\Debug\Mediator.pdb
